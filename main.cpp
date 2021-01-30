@@ -72,6 +72,7 @@ int main(int argc, char *argv[])
 
     return 0;
 }
+//https://konaeakira.github.io/posts/using-the-shortest-path-faster-algorithm-to-find-negative-cycles.html I have used this site to write detect_cycle spfa_early_terminate methods 
 
 bool detect_cycle()
 {
